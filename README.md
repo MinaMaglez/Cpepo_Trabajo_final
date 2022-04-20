@@ -1,7 +1,7 @@
-# Cpepo_Trabajo_final
-Here the information contained in each folder that will be created in this project will be described in a general way
+# Cpepo_genomica
+Here the information contained in each folder that will be created in this project will be described in a general way. The folders and their contents are as follows:
 
-rudos_genomas
+Crudos_genomas
 
 	Here will go the data of the nine genomes of Cucurbita pepo, which are:
 
