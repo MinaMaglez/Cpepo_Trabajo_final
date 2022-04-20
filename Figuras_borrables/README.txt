@@ -1,0 +1,1 @@
+Here the different tests of the figures will be placed
